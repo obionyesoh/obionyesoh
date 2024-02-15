@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋,
+
+🔭 I am currently working on creating on a few projects 🚀.
+
+🔭 If you care to join me, please ping me a message 🤙.
+
+🔭 Thanks
+
+🔭 Obi ⭐👍
 
 <!--
 **obionyesoh/obionyesoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
